@@ -20,11 +20,7 @@
 
 **3X-ui-ShopBot** — комплексное решение для автоматизированной продажи VLESS‑конфигураций через Telegram с глубокой интеграцией в панель **3x‑ui** и собственной веб‑панелью на базе Tabler.
 
-## [Поддержка по проекту](https://t.me/t_shift_supportbot)
 
-## 👥 Группа для соискателей
-
-Присоединяйтесь к нашей группе: [3xui-shopbot](https://t.me/+0a2q3H5G7JU4NDMy)
 
 ---
 
@@ -287,13 +283,6 @@ curl -sSL https://raw.githubusercontent.com/tweopi/3xui-shopbot/main/install.sh 
 docker-compose down && docker-compose up
 ```
 
-## 🙌 Баги и предложения
 
-Если вы нашли баг, или у вас есть предложение, то создавайте "Issue" или присылайте Pull Request'ы. Так же можно со мной связаться [@tweopi](https://t.me/tweopi)
-
-## 💎 Поддержать разработку
-
-**СБП/Карта РФ:** [Нажать чтобы поддержать](https://yookassa.ru/my/i/aJiSmSUeUie5/l)
-**Т-Банк:**[Нажать чтобы поддержать](https://tbank.ru/cf/1JpNWKAFzqR)
 
 ## Я ценю любой вклад в развитие проекта ❤️
